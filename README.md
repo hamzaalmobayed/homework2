@@ -1,19 +1,25 @@
 # screen shot for my project
-
-<table style="width:100%">
+-------
+<table style="width:50%">
   <tr>
-    <td> <img src="https://user-images.githubusercontent.com/65761533/123777129-90defb00-d8d8-11eb-9550-aa3af22d2649.jpg" alt="screenshot 1" width="400"></td>
+    <td> 
+      <img src="https://user-images.githubusercontent.com/65761533/123777129-90defb00-d8d8-11eb-9550-aa3af22d2649.jpg" alt="screenshot 1" width="400">
+    </td>
    
-    <td> <img src="https://user-images.githubusercontent.com/65761533/123777134-92a8be80-d8d8-11eb-89ff-a51d4e800ef4.jpg" alt="screenshot 1" width="400"></td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/65761533/123777134-92a8be80-d8d8-11eb-89ff-a51d4e800ef4.jpg" alt="screenshot 1" width="400">
+    </td>
     
-    <td> <img src="https://user-images.githubusercontent.com/65761533/123777138-93d9eb80-d8d8-11eb-9acd-d83986bdbdc3.jpg" alt="screenshot 1" width="400"></td>
+    <td> <img src="https://user-images.githubusercontent.com/65761533/123777138-93d9eb80-d8d8-11eb-9acd-d83986bdbdc3.jpg" alt="screenshot 1" width="400">
+    </td>
   </tr>
   
   <tr>
-    <td> <img src="https://user-images.githubusercontent.com/65761533/123777145-950b1880-d8d8-11eb-8bce-0c9d4e9808b0.jpg" alt="screenshot 1" width="400"></td>
+    <td> <img src="https://user-images.githubusercontent.com/65761533/123777145-950b1880-d8d8-11eb-8bce-0c9d4e9808b0.jpg" alt="screenshot 1" width="400">
+    </td>
    
-    <td> <img src="https://user-images.githubusercontent.com/65761533/123777147-95a3af00-d8d8-11eb-9450-981092fba799.jpg" alt="screenshot 1" width="400"></td>
-   
+    <td> <img src="https://user-images.githubusercontent.com/65761533/123777147-95a3af00-d8d8-11eb-9450-981092fba799.jpg" alt="screenshot 1" width="400">
+    </td>
   </tr>
   
   
