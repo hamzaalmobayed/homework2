@@ -1,5 +1,5 @@
 # screen shot for my project
--------
+
 <table>
   <tr>
     <td>first Screen Page</td>
